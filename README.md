@@ -78,6 +78,7 @@ Apresentadores
 -   Daniel Ikenaga
 -   Eduardo Ribeiro Jr
 -   Gabriel Sartori
+-   Jonathan Farinela da Silva
 -   Leonardo Raduy Lemos
 -   Samuel Victor Medeiros de Macêdo
 -   Walmes Zeviani
