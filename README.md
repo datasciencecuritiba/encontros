@@ -43,8 +43,9 @@ Um momento descontraído para conversar sobre data science e construir network! 
 
 <https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/249741413/>
 
+-   [Introdução](slides/3_0_encontro_data_science_curitiba.pdf)
 -   Estatística e Machine Learning: rivais, redundantes ou complementares? - Walmes Zeviani - Professor de Estatística da UFPR
--   Construindo Startups com Data Science - Daniel Ikenaga - CTO e data scientist no Jupter
+-   [Construindo Startups com Data Science](slides/3_desenvolvendo_startups_v2.pdf) - Daniel Ikenaga - CTO e data scientist no Jupter
 -   Tornando-se um cientista de dados: um caso real - Leonardo Raduy Lemos, cientista de dados e head de IA da madeiramadeira
 
 2° Encontro de Data Science Curitiba
@@ -52,7 +53,8 @@ Um momento descontraído para conversar sobre data science e construir network! 
 
 <https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/248313214/>
 
--   Introdução à Análise de Componentes Principais - Daniel Ikenaga
+-   [Introdução](slides/2_0_encontro_data_science_curitiba.pdf)
+-   [Introdução à Análise de Componentes Principais](slides/2_0_encontro_data_science_curitiba.pdf) - Daniel Ikenaga
 -   Desenvolvendo uma análise em Estatística Espacial - Gabriel Sartori
 
 1° Encontro de Data Science Curitiba
@@ -60,7 +62,8 @@ Um momento descontraído para conversar sobre data science e construir network! 
 
 <https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/247058399/>
 
--   Data Science: muito além do 'hype' - Daniel Ikenaga
+-   [Introdução](slides/1_0_encontro_data_science_curitiba.pdf)
+-   [Data Science: muito além do 'hype'](slides/1_data_science_muito_alem_do_hype.pdf) - Daniel Ikenaga
 -   Paralelismo e concorrência: todo o poder de seu processador - Anderson Carli
 -   Mineração de texto: conceitos e aplicações - Prof. Walmes Marques Zeviani
 
