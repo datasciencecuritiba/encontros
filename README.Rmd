@@ -28,9 +28,22 @@ output: github_document
 
 Um momento descontraído para conversar sobre data science e construir network! [Agenda](https://www.meetup.com/pt-BR/Data-Science-Curitiba/)
 
+
+
+## 5° Encontro de Data Science Curitiba
+https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/252158103/
+
+- [Introdução](slides/5_0_encontro_data_science_curitiba.pdf)
+- LBD e a História dos Bancos de Dados - Eduardo Cunha
+- [Introdução ao Data Cleaning](slides/5_introducao_ao_data_cleaning.pdf) - Eduardo Pena
+- Análise de dados com SQL-on-Hadoop - Edson Ramiro
+- [Modelos de Processamento de Consulta](5_modelos_de_processamento_de_consulta.pdf) - Simone Dominico
+
+
 ## 4° Encontro de Data Science Curitiba
 https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/250661915/
 
+- [Introdução](slides/4_0_encontro_data_science_curitiba.pdf)
 - R para Machine Learning - Eduardo Elias Ribeiro Jr - Graduado e mestrando em Estatística
 - Implementação de Dashboards em Shiny em O Boticário - Jonathan Farinela da Silva - Estatístico UFRGS
 - Big Data com o R: ferramentas e desafios - Samuel Victor Medeiros de Macêdo - Prof. IFPE
@@ -47,7 +60,7 @@ https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/249741413/
 https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/248313214/
 
 - [Introdução](slides/2_0_encontro_data_science_curitiba.pdf)
-- [Introdução à Análise de Componentes Principais](slides/2_0_encontro_data_science_curitiba.pdf) - Daniel Ikenaga
+- [Introdução à Análise de Componentes Principais](slides/2_introducao_analise_de_componentes_principais.pdf) - Daniel Ikenaga
 - Desenvolvendo uma análise em Estatística Espacial - Gabriel Sartori
 
 ## 1° Encontro de Data Science Curitiba 
@@ -68,9 +81,13 @@ https://www.meetup.com/pt-BR/Data-Science-Curitiba/events/247058399/
 
 - Anderson Carli
 - Daniel Ikenaga
+- Edson Ramiro
+- Eduardo Cunha
+- Eduardo Pena
 - Eduardo Ribeiro Jr
 - Gabriel Sartori
 - Jonathan Farinela da Silva
 - Leonardo Raduy Lemos
 - Samuel Victor Medeiros de Macêdo
+- Simone Dominico
 - Walmes Zeviani
