@@ -74,7 +74,8 @@ network\! [Agenda](https://www.meetup.com/pt-BR/Data-Science-Curitiba/)
   - [Introdução à Análise de Componentes
     Principais](slides/2_introducao_analise_de_componentes_principais.pdf)
     - Daniel Ikenaga
-  - Desenvolvendo uma análise em Estatística Espacial - Gabriel Sartori
+  - [Desenvolvendo uma análise em Estatística Espacial](https://github.com/GabrielSartori/precificacao_imoveis/tree/master/output/app_jupter_13_03) (Baixar todos os arquivos da pasta)
+    - Gabriel Sartori
 
 ## 1° Encontro de Data Science Curitiba
 
